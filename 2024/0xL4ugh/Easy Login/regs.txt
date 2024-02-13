@@ -1,0 +1,4 @@
+regs[0..1]		total length in bits (8 bits length in padding)
+regs[2..18]		A0 B0 C0 D0
+regs[24..87]	64 bytes hash block	
+regs[88..103]	16 bytes hash result
