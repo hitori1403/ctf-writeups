@@ -1,3 +1,5 @@
+# tags: easy, rc4
+
 from base64 import b64decode
 
 aaaaa_passwd = bytes.fromhex("a83fac4d8a93d57432a959a2540f7fd042d90a2b6dddcd44cfda19")
